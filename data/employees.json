@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": ["Python", "React", "AWS", "Docker", "PostgreSQL"],
+      "experience_years": 5,
+      "projects": ["E-commerce Platform", "Healthcare Dashboard", "Customer Analytics System"],
+      "availability": "available",
+      "department": "Engineering",
+      "role": "Full Stack Developer"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Chen",
+      "skills": ["Python", "TensorFlow", "PyTorch", "Computer Vision", "Medical Imaging"],
+      "experience_years": 6,
+      "projects": ["Medical Diagnosis Platform", "X-ray Analysis System", "Patient Risk Prediction"],
+      "availability": "available",
+      "department": "AI/ML",
+      "role": "Senior ML Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Michael Rodriguez",
+      "skills": ["Python", "scikit-learn", "pandas", "SQL", "Healthcare Systems"],
+      "experience_years": 4,
+      "projects": ["Patient Risk Prediction System", "Electronic Health Records", "HIPAA Compliance Tool"],
+      "availability": "busy",
+      "department": "Healthcare Tech",
+      "role": "Data Scientist"
+    },
+    {
+      "id": 4,
+      "name": "Emma Thompson",
+      "skills": ["JavaScript", "React Native", "Node.js", "MongoDB", "Mobile Development"],
+      "experience_years": 3,
+      "projects": ["Mobile Banking App", "Fitness Tracker", "Social Media Platform"],
+      "availability": "available",
+      "department": "Mobile",
+      "role": "Mobile Developer"
+    },
+    {
+      "id": 5,
+      "name": "David Kim",
+      "skills": ["Java", "Spring Boot", "Microservices", "Kubernetes", "AWS"],
+      "experience_years": 7,
+      "projects": ["Banking System", "Payment Gateway", "Microservices Architecture"],
+      "availability": "available",
+      "department": "Backend",
+      "role": "Senior Backend Engineer"
+    },
+    {
+      "id": 6,
+      "name": "Lisa Wang",
+      "skills": ["React", "TypeScript", "Next.js", "GraphQL", "UI/UX"],
+      "experience_years": 4,
+      "projects": ["Admin Dashboard", "Customer Portal", "Design System"],
+      "availability": "available",
+      "department": "Frontend",
+      "role": "Frontend Developer"
+    },
+    {
+      "id": 7,
+      "name": "James Wilson",
+      "skills": ["Python", "Django", "PostgreSQL", "Redis", "API Development"],
+      "experience_years": 5,
+      "projects": ["Content Management System", "API Gateway", "User Authentication Service"],
+      "availability": "busy",
+      "department": "Backend",
+      "role": "Backend Developer"
+    },
+    {
+      "id": 8,
+      "name": "Maria Garcia",
+      "skills": ["DevOps", "AWS", "Docker", "Kubernetes", "Terraform"],
+      "experience_years": 6,
+      "projects": ["CI/CD Pipeline", "Infrastructure Automation", "Cloud Migration"],
+      "availability": "available",
+      "department": "DevOps",
+      "role": "DevOps Engineer"
+    },
+    {
+      "id": 9,
+      "name": "Alex Turner",
+      "skills": ["Python", "FastAPI", "Machine Learning", "Data Analysis", "Pandas"],
+      "experience_years": 3,
+      "projects": ["Recommendation Engine", "Data Pipeline", "Analytics Dashboard"],
+      "availability": "available",
+      "department": "Data",
+      "role": "Data Engineer"
+    },
+    {
+      "id": 10,
+      "name": "Sophie Brown",
+      "skills": ["Flutter", "Dart", "Firebase", "Mobile UI", "Cross-platform"],
+      "experience_years": 2,
+      "projects": ["Travel App", "Food Delivery App", "Inventory Management"],
+      "availability": "available",
+      "department": "Mobile",
+      "role": "Flutter Developer"
+    },
+    {
+      "id": 11,
+      "name": "Robert Lee",
+      "skills": ["C#", ".NET Core", "Azure", "SQL Server", "Enterprise Systems"],
+      "experience_years": 8,
+      "projects": ["Enterprise Resource Planning", "Financial Management System", "Reporting Platform"],
+      "availability": "busy",
+      "department": "Enterprise",
+      "role": "Senior .NET Developer"
+    },
+    {
+      "id": 12,
+      "name": "Nina Patel",
+      "skills": ["Python", "Deep Learning", "NLP", "Transformers", "Research"],
+      "experience_years": 4,
+      "projects": ["Chatbot Platform", "Text Classification", "Language Model Fine-tuning"],
+      "availability": "available",
+      "department": "AI/ML",
+      "role": "NLP Engineer"
+    },
+    {
+      "id": 13,
+      "name": "Carlos Martinez",
+      "skills": ["Go", "Microservices", "gRPC", "Distributed Systems", "Performance"],
+      "experience_years": 5,
+      "projects": ["High-frequency Trading System", "Real-time Analytics", "Load Balancer"],
+      "availability": "available",
+      "department": "Systems",
+      "role": "Systems Engineer"
+    },
+    {
+      "id": 14,
+      "name": "Jennifer Adams",
+      "skills": ["Product Management", "Agile", "User Research", "Analytics", "Strategy"],
+      "experience_years": 6,
+      "projects": ["Product Roadmap", "User Experience Research", "Growth Strategy"],
+      "availability": "available",
+      "department": "Product",
+      "role": "Senior Product Manager"
+    },
+    {
+      "id": 15,
+      "name": "Ryan O'Connor",
+      "skills": ["Security", "Penetration Testing", "Cybersecurity", "Network Security", "Compliance"],
+      "experience_years": 7,
+      "projects": ["Security Audit", "Vulnerability Assessment", "Security Framework"],
+      "availability": "busy",
+      "department": "Security",
+      "role": "Security Engineer"
+    },
+    {
+      "id": 16,
+      "name": "Priya Sharma",
+      "skills": ["React", "Vue.js", "CSS", "JavaScript", "Responsive Design"],
+      "experience_years": 3,
+      "projects": ["Company Website", "Marketing Platform", "Component Library"],
+      "availability": "available",
+      "department": "Frontend",
+      "role": "Frontend Developer"
+    }
+  ]
+}

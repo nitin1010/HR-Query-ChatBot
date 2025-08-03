@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Models (DON'T COMMIT LARGE MODEL FILES)
+models/*.gguf
+models/*.bin
+models/*.safetensors
+models/Mistral-*
+models/mistral-*
+models/*.h5
+models/*.onnx
+models/*/
+
+# HuggingFace Cache
+.cache/
+*.cached
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env.local
+.env.production
+
+# Temporary files
+tmp/
+temp/
+
+# Streamlit
+.streamlit/
+
+# PyTorch
+*.pth
+*.pkl
