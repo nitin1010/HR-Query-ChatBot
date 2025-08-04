@@ -224,29 +224,6 @@ uvicorn api.main:app --reload
 - Cache embeddings for repeated queries
 - Use smaller top_k values for faster responses
 
-## 🚀 Future Improvements
-
-### Short-term Enhancements
-- [ ] Add employee photo support
-- [ ] Implement query history persistence
-- [ ] Add export functionality for search results
-- [ ] Include availability calendar integration
-- [ ] Add skill recommendations based on project requirements
-
-### Advanced Features
-- [ ] **Vector Database**: Migrate to Pinecone/Weaviate for better scalability
-- [ ] **Fine-tuned Models**: Train custom embeddings on HR domain
-- [ ] **Multi-modal Search**: Add resume/document search capabilities
-- [ ] **Real-time Updates**: Live employee data synchronization
-- [ ] **Analytics Dashboard**: Query patterns and usage statistics
-- [ ] **Integration APIs**: Connect with HRIS systems (Workday, BambooHR)
-
-### Enterprise Features
-- [ ] **Role-based Access**: Different permissions for different users
-- [ ] **Audit Logging**: Track all queries and data access
-- [ ] **SSO Integration**: Active Directory/LDAP authentication
-- [ ] **Compliance**: GDPR/CCPA data protection features
-- [ ] **Multi-tenant**: Support multiple organizations
 
 ## 📊 Demo
 
@@ -296,21 +273,3 @@ uvicorn api.main:app --reload
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Mistral AI for the language model
-- Sentence Transformers for embedding models
-- FastAPI and Streamlit communities
-- HuggingFace for model hosting and tools
-
-## 📞 Support
-
-For questions or support:
-- Create an issue in the repository
-- Check existing documentation
-- Review troubleshooting section
-
----
-
-**Built with ❤️ for modern HR teams**
